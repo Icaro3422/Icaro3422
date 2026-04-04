@@ -10,7 +10,7 @@ I'm a passionate developer with a keen interest in software development and tech
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** EN | ES | FR
+- **Languages:** EN | ES
 - **Frameworks:** 
 - **Tools:**
 
